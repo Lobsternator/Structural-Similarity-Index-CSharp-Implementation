@@ -1,0 +1,7 @@
+C:\Users\juliu\Documents\Programming\CSharp\Solutions\Structural Similarity Index\Structural Similarity Index\bin\Debug\Structural Similarity Index.exe.config
+C:\Users\juliu\Documents\Programming\CSharp\Solutions\Structural Similarity Index\Structural Similarity Index\bin\Debug\Structural Similarity Index.exe
+C:\Users\juliu\Documents\Programming\CSharp\Solutions\Structural Similarity Index\Structural Similarity Index\bin\Debug\Structural Similarity Index.pdb
+C:\Users\juliu\Documents\Programming\CSharp\Solutions\Structural Similarity Index\Structural Similarity Index\obj\Debug\Structural Similarity Index.csprojAssemblyReference.cache
+C:\Users\juliu\Documents\Programming\CSharp\Solutions\Structural Similarity Index\Structural Similarity Index\obj\Debug\Structural Similarity Index.csproj.CoreCompileInputs.cache
+C:\Users\juliu\Documents\Programming\CSharp\Solutions\Structural Similarity Index\Structural Similarity Index\obj\Debug\Structural Similarity Index.exe
+C:\Users\juliu\Documents\Programming\CSharp\Solutions\Structural Similarity Index\Structural Similarity Index\obj\Debug\Structural Similarity Index.pdb
